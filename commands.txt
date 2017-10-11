@@ -1,0 +1,31 @@
+ls
+ls -al
+ls -a -l
+
+/bin/ls -l -a
+        /bin/ls     -l 
+
+vim
+
+gedit &
+ps
+/bin/ps
+
+pwd
+mkdir Dodo
+touch Dodo/lab1.txt
+cd ~/Dodo
+vi lab1.txt
+pwd
+cd ../
+cd ~
+
+wc Dodo/lab1.txt
+cat Dodo/lab1.txt
+
+#this is a comment
+x=5
+echo $x
+echo "hello world"
+echo              	"hello           world"
+history
