@@ -69,7 +69,7 @@ Function which makes 4 main steps remove the extra spaces, replace the variables
 -Decide the type of the command from the first parameter in the array.
 
 # How to compile and run the code
-1- open the directory of the project.
+1- open the directory of the project.\n
 2- open the terminal in this directory.
 3- Run “make” command which will compile the makefile.
 4- to run the interactive mode run “./shell” command.
